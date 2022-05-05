@@ -1,7 +1,3 @@
 hello git!changeM
 hello git!changeM
-hello git!
-hello git!
-hello git!
-hello git!
-hello git!
+hello git!changeM Test
